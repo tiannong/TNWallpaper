@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="动态壁纸/动态壁纸.vcxproj" Id="3be09558-0d67-4ab1-9237-5c35fda58d4f" />
+</Solution>
